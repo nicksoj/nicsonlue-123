@@ -1,0 +1,43 @@
+body {
+    background-color:#F8FAFC;
+    box-sizing: 50px;
+}
+header {
+    background-color: #0F172A;
+    padding: 15px 30px;
+    justify-content: space-between;
+    align-items:center;
+    display:flex;
+    border-radius: 5px`;
+}
+h2 {
+    color: #1E3A8A;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+button {
+    background-color: #2563EB;
+    padding: 20px;
+    border-radius: 10px;
+    padding-right:100px;
+    display: block;
+    margin: 20px auto;
+}
+.Now {
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: #F8FAFC;
+}
+a:hover {
+    color: lightblue;
+    transform: 3s;
+}
+.better {
+    padding-bottom: 30px;
+}
+div {
+    text-align: center;
+
+}
